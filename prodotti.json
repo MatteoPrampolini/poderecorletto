@@ -1,0 +1,41 @@
+[
+    {
+        "imageName": "miele_millefiori.png",
+        "title": "Miele millefiori",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "imageName": "miele_acacia.webp",
+        "title": "Miele d'acacia",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "description":"Prendi questo miele se sei a-cacia di guai x)"
+
+    },
+    {
+        "imageName": "propoli.webp",
+        "title": "Propoli",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+    {
+        "imageName": "pappa_reale.jpg",
+        "title": "Pappa Reale",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    }
+]

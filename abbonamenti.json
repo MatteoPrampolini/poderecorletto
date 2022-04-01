@@ -1,0 +1,51 @@
+[
+    {
+        "imageName": "miele_millefiori.png",
+        "name": "Piccolo osservatore",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "price":30,
+        "abbonati":20,
+        "maxAbbonati":30,
+        "description":["Certificato di adozione","1 visita all'apiario","1.5kg di miele millefiori","Foto e piccoli video"]
+    },
+    {
+        "imageName": "miele_millefiori.png",
+        "name": "Navigatore",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "price":75,
+        "abbonati":6,
+        "maxAbbonati":20,
+        "description":["Certificato di adozione","1 visita all'apiario","3kg di miele a scelta","Foto e piccoli video","1 vasetto di polline"]
+        
+    },
+    {
+        "imageName": "miele_millefiori.png",
+        "name": "Cercatore di tesori",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "price":150,
+        "abbonati":3,
+        "maxAbbonati":10,
+        "description":["Certificato di adozione","1 visita all'apiario","5kg di miele a scelta","Foto e piccoli video","1 vasetto di polline","1 confezione di pappa reale"]
+    },
+    {
+        "imageName": "miele_millefiori.png",
+        "name": "Grande esploratore",
+        "handsetCols":2,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1,
+        "price":250,
+        "abbonati":1,
+        "maxAbbonati":3,
+        "description":["Certificato di adozione","1 visita all'apiario","10kg di miele a scelta","Foto e piccoli video","2 vasetti di polline","2 confezioni di pappa reale"]
+    }
+]
